@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;01-databaseendpoint-solution.xml&apos; to &apos;02-externalizing-start/src/main/mule&apos;&#x0D;&#x0A;- Original project: &apos;01-databaseendpoint-solution&apos;&#x0D;&#x0A;- Destination element: &apos;02-externalizing-start/src/main/mule&apos;&#x0D;&#x0A;- Original element: &apos;01-databaseendpoint-solution.xml&apos;" description="Copy file" destination="=02-externalizing-start/src\/main\/mule" element1="src/main/mule/01-databaseendpoint-solution.xml" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1542472601354" units="0" version="1.0"/>
+</session>

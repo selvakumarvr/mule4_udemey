@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;01-transformers-basics-solution/src/main/mule/01-transformers-basics-solution.xml&apos; to &apos;transformerdemo.xml&apos;" description="Rename resource &apos;01-transformers-basics-solution.xml&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/mule/01-transformers-basics-solution.xml" name="transformerdemo.xml" stamp="1565705714421" updateReferences="true"/>
+</session>

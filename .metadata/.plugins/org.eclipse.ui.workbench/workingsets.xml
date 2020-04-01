@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1542368587001_6" label="01-mule-basics" name="01-mule-basics">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/01-mulebasics-start" type="4"/>
+<item elementID="=01-mulebasics-solution" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1542368737337_9" label="02-consuming-webservices" name="02-consuming-webservices">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/02-consuming-soap-start" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/01-consuming-rest-solution" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/01-consuming-rest-start" type="4"/>
+<item elementID="=02-consuming-soap-solution" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1542441836640_10" label="04-database-externalising-domain" name="04-database-externalising-domain">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/01-databaseendpoint-solution" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/02-externalizing-start" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/03-externalization-domain-start" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/02-externalizing-solution" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/03-externalization-domain-solution" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/way2learndomain" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/01-databaseendpoint-start" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1542495833241_14" label="05-watermarking-objectstores" name="05-watermarking-objectstores">
+<item elementID="=02-watermarking-using-objectstore-start" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=01-watermarking-start" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=01-watermarking-solution" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=02-watermarking-using-objectstore-solution" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1542501396092_19" label="03-filemodule" name="03-filemodule">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/01-using-filemodule-solution" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/01-using-filemodule-start" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1542838714893_13" label="06-usingjmsmodule" name="06-usingjmsmodule">
+<item elementID="=01-jms-start" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=01-jms-solution" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1542851387403_15" label="07-scatter-gather" name="07-scatter-gather">
+<item elementID="=01-scatter-gather-solution" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=01-scatter-gather-start" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1542874845158_15" label="10-munit" name="10-munit">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/01-munit-solution" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/01-munit-start" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1542874890066_16" label="09-batch" name="09-batch">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/01-batch-solution" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1542892474146_19" label="08-errorhandling" name="08-errorhandling">
+<item elementID="=01-exceptions-start" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=01-exceptions-solution" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1542926536786_20" label="11-transformers" name="11-transformers">
+<item elementID="=01-transformers-basics-start" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=02-transformers-complex-solution" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=02-transformers-complex-start" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=01-transformers-basics-solution" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1542193568428_0" label="Window Working Set" name="Aggregate for window 1542193568421"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1542285386749_1" label="Window Working Set" name="Aggregate for window 1542285386748"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1542286418419_2" label="Window Working Set" name="Aggregate for window 1542286418419"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1542368497039_3" label="Window Working Set" name="Aggregate for window 1542368497039"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1542368649966_8" label="Multiple Working Sets" name="Aggregate:01-mule-basics:02-consuming-webservices:">
+<workingSet IMemento.internal.id="01-mule-basics"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1542386228049_9" label="Window Working Set" name="Aggregate for window 1542386228049"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1542500388156_16" label="Window Working Set" name="Aggregate for window 1542500388156"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1542887453741_17" label="Window Working Set" name="Aggregate for window 1542887453741"/>
+</workingSetManager>

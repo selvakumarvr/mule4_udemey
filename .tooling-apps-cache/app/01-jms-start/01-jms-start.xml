@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<mule xmlns:jms="http://www.mulesoft.org/schema/mule/jms" xmlns:http="http://www.mulesoft.org/schema/mule/http"
+	xmlns="http://www.mulesoft.org/schema/mule/core"
+	xmlns:doc="http://www.mulesoft.org/schema/mule/documentation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mulesoft.org/schema/mule/core http://www.mulesoft.org/schema/mule/core/current/mule.xsd
+http://www.mulesoft.org/schema/mule/http http://www.mulesoft.org/schema/mule/http/current/mule-http.xsd
+http://www.mulesoft.org/schema/mule/jms http://www.mulesoft.org/schema/mule/jms/current/mule-jms.xsd">
+	<http:listener-config name="HTTP_Listener_config" doc:name="HTTP Listener config" doc:id="e4999c40-7491-4fe9-b438-74ecf77c4e0e" basePath="/" >
+		<http:listener-connection host="0.0.0.0" port="8081" />
+	</http:listener-config>
+	<jms:config name="JMS_Config" doc:name="JMS Config" doc:id="d02fbdbc-378c-42e7-96aa-6433d64aa46f" >
+		<jms:active-mq-connection >
+			<jms:factory-configuration brokerUrl="tcp://localhost:61616" />
+		</jms:active-mq-connection>
+	</jms:config>
+	<flow name="01-jms-startFlow" doc:id="1261a38d-a069-4173-ac71-ac5d98f985a9" >
+		<http:listener doc:name="Listener" doc:id="a2e4c1e3-fc88-4658-815c-f907f9ee739d" config-ref="HTTP_Listener_config" path="activeq"/>
+		<jms:publish doc:name="Publish" doc:id="579ddd45-e072-4d20-8869-6aa69cd8ce64" config-ref="JMS_Config" destination="inq"/>
+		<logger level="INFO" doc:name="Logger" doc:id="f42988dd-bb68-43aa-b3c4-7428bf515112" message="#[payload]"/>
+	</flow>
+</mule>

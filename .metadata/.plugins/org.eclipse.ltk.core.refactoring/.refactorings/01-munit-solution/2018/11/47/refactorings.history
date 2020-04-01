@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;01-munit-solution/src/main/mule/01-munit-solution.xml&apos; to &apos;01-munit-demo.xml&apos;" description="Rename resource &apos;01-munit-solution.xml&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/mule/01-munit-solution.xml" name="01-munit-demo.xml" stamp="1542874914280" updateReferences="true"/>
+</session>

@@ -1,0 +1,4 @@
+authenticated.users=[{"id"\:"f3d463cc-04d2-435f-b85b-48a88486a08f","token"\:"63e6f35d-d80a-4155-afbb-6a2c961b87dc","userId"\:"sivanov2018","refreshToken"\:"","baseUrl"\:"https\://anypoint.mulesoft.com/"},{"id"\:"87999b8d-eb5e-4b97-9097-7b76c06286e0","token"\:"6a841941-cb6b-4dec-8607-a0087f770184","userId"\:"sivaaug2019","refreshToken"\:"","baseUrl"\:"https\://anypoint.mulesoft.com/"}]
+current.token=6a841941-cb6b-4dec-8607-a0087f770184
+current.user=sivaaug2019
+eclipse.preferences.version=1
